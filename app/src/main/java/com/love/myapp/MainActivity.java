@@ -1,4 +1,3 @@
-
 package com.love.myapp;
 
 import android.app.Activity;
